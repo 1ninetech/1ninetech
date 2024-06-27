@@ -10,10 +10,10 @@ We're constantly exploring new technologies and methodologies. Currently, we're 
 We’re always looking to collaborate on exciting projects. If you need expertise in full-stack development, AI, or cloud infrastructure, we’d love to hear from you. Let’s build something great together!
 
 ## 📫 Get in Touch
-- Email: contact@1ninetech.com
-- LinkedIn: (https://www.linkedin.com/company/1ninetech/)
-- Facebook: (https://www.facebook.com/1ninetech/)
-- Website:  (https://www.1ninetech.com)
+- Email: info@1ninetech.com
+- LinkedIn: https://www.linkedin.com/company/1ninetech/
+- Facebook: https://www.facebook.com/1ninetech/
+- Website:  https://www.1ninetech.com
 
 ## 😄 Our Team
 Our diverse team includes experts in various fields, all passionate about delivering high-quality solutions and driving innovation.
